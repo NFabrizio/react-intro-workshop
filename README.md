@@ -11,18 +11,3 @@
     Installation instructions for nvm-windows can be found [by clicking this link](https://github.com/coreybutler/nvm-windows).  
 3. Install create-react-app.  
     `npm install -g create-react-app`
-
-
-
-
-## Helpful Links  
-[Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)  
-[JSX In Depth](https://reactjs.org/docs/jsx-in-depth.html)  
-[React.Component API](https://reactjs.org/docs/react-component.html)  
-[React Lifecycle Methods Diagram](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)  
-[React Component Lifecycle Methods](https://reactjs.org/docs/react-component.html#the-component-lifecycle)  
-
-### Code Pen Samples  
-Imperative versus Declarative sample  
-JSX samples  
-Simple render sample  
