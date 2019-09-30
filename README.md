@@ -43,6 +43,4 @@
     `npm install -g create-react-app`  
 6.  Clone the workshop repo to your local machine.  
     On your machine in a terminal, run the following command:  
-    ```sh
-    $ git clone https://github.com/NFabrizio/react-intro-workshop.git
-    ```
+    `git clone https://github.com/NFabrizio/react-intro-workshop.git`  
