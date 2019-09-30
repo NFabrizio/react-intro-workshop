@@ -37,7 +37,7 @@
     out in your terminal.  
     **Note: This step is optional. If you have Node 8.16.0 or Node 10.16.0
     installed, nvm is not required. It is only necessary if you need a different
-    ode version installed on your machine for other projects.**
+    Node version installed on your machine for other projects.**
 3. Install create-react-app.  
     On your machine in a terminal, run the following command.
     `npm install -g create-react-app`
