@@ -9,19 +9,19 @@
     Configuring Git is not required for this workshop. We will only need the basic
     setup.**  
 2. Install Node.  
-    You’ll need to have Node 8.16.0 or Node 10.16.0 or later version on your
+    You’ll need to have Node 8.16.0 or Node 10.16.0 or a later version on your
     local development machine.  
     Read the instructions for your OS
     [by clicking this link](https://nodejs.org/en/download/package-manager/) and
     selecting your OS from the list.  
 3. Check Node version.
     Once you have Node installed on your machine, check the Node version by
-    typing the following command on the command line in a terminal.  
+    typing the following command on the command line in a terminal:  
     `node --version`  
     If the version displayed is not 8.16.0, 10.16.0 or later, please install nvm
     and ensure that you can switch to one of these versions of Node by completing
     the installation instructions for nvm below.  
-3. Optional: Install nvm.  
+4. Optional: Install nvm.  
     You can use nvm (macOS/Linux) or nvm-windows to easily switch Node versions
     between different projects.  
     Installation instructions for nvm can be found
@@ -29,7 +29,7 @@
     Installation instructions for nvm-windows can be found
     [by clicking this link](https://github.com/coreybutler/nvm-windows).  
     After installation is complete, run the following commands on your machine in
-    a terminal.  
+    a terminal:  
     `nvm install 8.16.0`  
     `nvm use 8.16.0`  
     `node --version`  
@@ -37,7 +37,12 @@
     out in your terminal.  
     **Note: This step is optional. If you have Node 8.16.0 or Node 10.16.0
     installed, nvm is not required. It is only necessary if you need a different
-    Node version installed on your machine for other projects.**
-3. Install create-react-app.  
-    On your machine in a terminal, run the following command.
-    `npm install -g create-react-app`
+    Node version installed on your machine for other projects.**  
+5. Install create-react-app.  
+    On your machine in a terminal, run the following command:  
+    `npm install -g create-react-app`  
+6.  Clone the workshop repo to your local machine.  
+    On your machine in a terminal, run the following command:  
+    ```sh
+    $ git clone https://github.com/NFabrizio/react-intro-workshop.git
+    ```
