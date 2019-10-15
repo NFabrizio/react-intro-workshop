@@ -41,6 +41,14 @@
 5. Install create-react-app.  
     On your machine in a terminal, run the following command:  
     `npm install -g create-react-app`  
-6.  Clone the workshop repo to your local machine.  
+6. Create a base React application  
+    On your machine in a terminal, run the following command:  
+    `create-react-app my-tech-summit-2019-app`  
+7. Test the base React application  
+    On your machine in a terminal, change into the my-tech-summit-2019-app
+    directory created in the previous step, and run the following command:  
+    `npm start`  
+    The application should start and automatically open in a browser window.  
+8.  Clone the workshop repo to your local machine.  
     On your machine in a terminal, run the following command:  
     `git clone https://github.com/NFabrizio/react-intro-workshop.git`  
