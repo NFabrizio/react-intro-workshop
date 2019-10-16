@@ -52,3 +52,10 @@
 8.  Clone the workshop repo to your local machine.  
     On your machine in a terminal, run the following command:  
     `git clone https://github.com/NFabrizio/react-intro-workshop.git`  
+
+## Helpful Links  
+[Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)  
+[JSX In Depth](https://reactjs.org/docs/jsx-in-depth.html)  
+[React.Component API](https://reactjs.org/docs/react-component.html)  
+[React Lifecycle Methods Diagram](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)  
+[React Component Lifecycle Methods](https://reactjs.org/docs/react-component.html#the-component-lifecycle)  
