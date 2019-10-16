@@ -1,5 +1,5 @@
 /**
- * Let's start with the ticking clock example from earlier.
+ * Let's start with the button example from earlier.
  *
  * 1. Create a Button classical component.
  * 2. Instantiate state on the Button classical component to store the button color.
