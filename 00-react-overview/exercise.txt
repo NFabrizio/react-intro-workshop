@@ -1,0 +1,11 @@
+Open the terminal on your computer and follow the steps below.
+1. npm install -g create-react-app
+2. create-react-app my-tech-summit-2019-app
+3. cd my-tech-summit-2019-app
+4. npm start
+   The application should start and automatically open in a browser window.
+5. Open my-tech-summit-2019-app/App.js
+6. Add some text after "save to reload." and save the file
+   As you save, watch what happens to the application in the browser.
+
+// Congratulations! You are now React masters!
