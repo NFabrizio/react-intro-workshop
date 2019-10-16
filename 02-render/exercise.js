@@ -1,6 +1,8 @@
 /**
  * Copy and paste the code below into the index.js file of the create-react-app,
  * replacing the existing ReactDOM.render function call
+ *
+ * Hint: If you get an error, you may need to import React. Check src/App.js for an example
  **/
 
 function tick() {
